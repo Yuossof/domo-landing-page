@@ -31,6 +31,10 @@
 }
 
 
+.lgo {
+  color: #ff4136 !important;
+}
+
 /*------------------- 4.2. Header  -------------------*/
 .th-header {
   position: relative;
